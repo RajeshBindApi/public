@@ -1,0 +1,41 @@
+nav.topnav {
+    background-color: #333;
+    position: fixed;
+    bottom: 580px;
+    width: 100%;
+}
+
+.navbar-left{
+    float: left;
+}
+
+.jumbotron{
+    background-color: rgb(244, 244, 244);
+    border-radius: 5px;
+    border: 1px solid rgb(149, 149, 149);
+    box-shadow: 2px 2px 8px 2px rgb(149, 149, 149);
+    width: 70%;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+
+.row{
+    margin-top: 25px;
+    background-color: rgb(244, 244, 244);
+    width: 40%;
+    margin-left: 300px;
+}
+
+h1{
+    color: rgb(255, 60, 0);
+}
+.foote{
+    width: 100%;
+    margin-top: 500px;
+    text-align: center;
+    background-color: #333;
+    border: 1px solid rgb(17, 18, 18);
+    box-shadow: 3px 3px 12px 2px;    
+    position: fixed;
+    bottom: 0px;
+}
